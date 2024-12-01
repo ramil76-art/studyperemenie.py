@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="515feadb-8079-4671-8742-e8a0a88f847b" name="Changes" comment="dz 4">
-      <change afterPath="$PROJECT_DIR$/module_1_5.py" afterDir="false" />
+    <list default="true" id="515feadb-8079-4671-8742-e8a0a88f847b" name="Changes" comment="dz 5">
+      <change afterPath="$PROJECT_DIR$/module_1_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moule_1_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/blok2 start.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +38,9 @@
     &quot;accountId&quot;: &quot;205f9da4-4053-4a94-824e-10295a4d5584&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/module_1_7.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -46,9 +52,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.blok2 start.executor": "Debug",
     "Python.example.executor": "Run",
     "Python.module_1_4.executor": "Run",
     "Python.module_1_5.executor": "Run",
+    "Python.module_1_7.executor": "Run",
+    "Python.module_2_2.executor": "Run",
+    "Python.moule_1_6.executor": "Run",
     "Python.peremenie.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -104,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732732646124</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="dz 5">
+      <option name="closed" value="true" />
+      <created>1732813220096</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732813220096</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -112,6 +130,7 @@
     <MESSAGE value="dz" />
     <MESSAGE value="dz module_1_4" />
     <MESSAGE value="dz 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz 4" />
+    <MESSAGE value="dz 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz 5" />
   </component>
 </project>
