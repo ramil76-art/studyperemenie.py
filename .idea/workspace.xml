@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="515feadb-8079-4671-8742-e8a0a88f847b" name="Changes" comment="dz 5">
-      <change afterPath="$PROJECT_DIR$/module_3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_3_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +61,12 @@
     "Python.module_2_4.executor": "Debug",
     "Python.module_2_5.executor": "Run",
     "Python.module_2_6.executor": "Run",
+    "Python.module_34.executor": "Run",
     "Python.module_3_1.executor": "Debug",
-    "Python.module_3_2.executor": "Debug",
+    "Python.module_3_2.executor": "Run",
     "Python.module_3_3.executor": "Run",
+    "Python.module_3_4.executor": "Run",
+    "Python.module_3_5.executor": "Run",
     "Python.moduly_2_3.executor": "Run",
     "Python.moule_1_6.executor": "Run",
     "Python.peremenie.executor": "Run",
@@ -153,6 +158,17 @@
     </task>
     <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dz1" />
