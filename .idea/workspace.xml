@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="515feadb-8079-4671-8742-e8a0a88f847b" name="Changes" comment="dz 5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="515feadb-8079-4671-8742-e8a0a88f847b" name="Changes" comment="dz 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,40 +44,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.blok2 start.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fake_mafh.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.module_1_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_1_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_1_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_4.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_34.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_1.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.module_3_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.moduly_2_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.moule_1_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.peremenie.executor&quot;: &quot;Run&quot;,
-    &quot;Python.true_math.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.blok2 start.executor": "Debug",
+    "Python.example.executor": "Run",
+    "Python.fake_mafh.executor": "Debug",
+    "Python.module_1_4.executor": "Run",
+    "Python.module_1_5.executor": "Run",
+    "Python.module_1_7.executor": "Run",
+    "Python.module_2_2.executor": "Run",
+    "Python.module_2_4.executor": "Debug",
+    "Python.module_2_5.executor": "Run",
+    "Python.module_2_6.executor": "Run",
+    "Python.module_34.executor": "Run",
+    "Python.module_3_1.executor": "Debug",
+    "Python.module_3_2.executor": "Run",
+    "Python.module_3_3.executor": "Run",
+    "Python.module_3_4.executor": "Run",
+    "Python.module_3_5.executor": "Run",
+    "Python.module_3_6.executor": "Run",
+    "Python.module_4_1.executor": "Run",
+    "Python.module_5_1.executor": "Run",
+    "Python.module_5_2.executor": "Run",
+    "Python.module_5_3.executor": "Run",
+    "Python.module_5_4.executor": "Run",
+    "Python.module_5hard.executor": "Run",
+    "Python.moduly_2_3.executor": "Run",
+    "Python.moule_1_6.executor": "Run",
+    "Python.peremenie.executor": "Run",
+    "Python.true_math.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Lenovo"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -224,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735147800404</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="dz 5">
+      <option name="closed" value="true" />
+      <created>1735317958060</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1735317958060</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
