@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="515feadb-8079-4671-8742-e8a0a88f847b" name="Changes" comment="dz 5">
-      <change afterPath="$PROJECT_DIR$/module_6_2.py" afterDir="false" />
-    </list>
+    <list default="true" id="515feadb-8079-4671-8742-e8a0a88f847b" name="Changes" comment="dz 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -243,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736180476271</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="dz 5">
+      <option name="closed" value="true" />
+      <created>1736181672071</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1736181672071</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
